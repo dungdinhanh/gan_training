@@ -1,0 +1,5 @@
+large_files/*
+exercises/samples/*
+complete/samples/*
+*/__ini__.py
+*/__pycache__/
