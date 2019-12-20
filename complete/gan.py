@@ -5,6 +5,11 @@ from util import *
 from datetime import *
 import scipy as sp
 from matplotlib import pyplot as plt
+from tensorflow.python.client import device_lib
+
+def get_available_gpus():
+    local_device_protos = device_lib.list_local_devices()
+    return [x.name for x in local_device_protos if x.device_type == 'GPU']
 
 
 LEARNING_RATE = 0.0002
@@ -476,6 +481,9 @@ def mnist():
     dim = X.shape[1]
     colors = X.shape[-1]
 
+    devices = get_available_gpus()
+
+
 
     d_sizes = {
         CONV: [(2, 5, 2, False), (64, 5, 2, True)],
@@ -490,8 +498,12 @@ def mnist():
         DENSE: [(1024, True)],
         'output_activation': tf.sigmoid
     }
-
-    gan = DCGAN(dim, colors,g_sizes, d_sizes )
+    if len(devices) != 0:
+        with tf.device("/gpu:0"):
+            gan = DCGAN(dim, colors, g_sizes, d_sizes)
+        pass
+    else:
+        gan = DCGAN(dim, colors,g_sizes, d_sizes )
     gan.fit(X)
 
 if __name__ == '__main__':

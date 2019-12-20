@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9a6dc-4111-4749-9df4-d40402aa0a18" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/cost_vs_iteration.png" beforeDir="false" afterPath="$PROJECT_DIR$/complete/cost_vs_iteration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gan.py" beforeDir="false" afterPath="$PROJECT_DIR$/complete/gan.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="gan.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/complete/gan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="476" column="22" lean-forward="true" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
+            <state relative-caret-position="414">
+              <caret line="501" column="30" selection-start-line="501" selection-start-column="30" selection-end-line="501" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -296,6 +297,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -342,22 +344,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/complete/gan.py</url>
-          <line>328</line>
+          <line>333</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/complete/gan.py</url>
-          <line>55</line>
+          <line>60</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/complete/gan.py</url>
-          <line>58</line>
+          <line>63</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/complete/gan.py</url>
-          <line>68</line>
+          <line>73</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -769,8 +771,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/complete/gan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="476" column="22" lean-forward="true" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
+        <state relative-caret-position="414">
+          <caret line="501" column="30" selection-start-line="501" selection-start-column="30" selection-end-line="501" selection-end-column="30" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
