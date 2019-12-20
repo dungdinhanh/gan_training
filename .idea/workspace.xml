@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9a6dc-4111-4749-9df4-d40402aa0a18" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +30,11 @@
       <file leaf-file-name="gan.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/complete/gan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="193">
+              <caret line="476" column="22" lean-forward="true" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +42,7 @@
       <file leaf-file-name="GAN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/GAN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1172">
+            <state relative-caret-position="4777">
               <caret line="286" selection-start-line="286" selection-end-line="286" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -102,10 +105,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
-    <option name="y" value="-4" />
+    <option name="x" value="1688" />
+    <option name="y" value="211" />
     <option name="width" value="1317" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,12 +126,12 @@
             <path>
               <item name="deep_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deep_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="code_sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deep_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deep_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="large_files" type="462c0819:PsiDirectoryNode" />
+              <item name="complete" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +295,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-11" width="1319" height="780" extended-state="6" />
+    <frame x="1366" y="-4" width="1920" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -300,8 +303,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31259722" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33073324" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974093" visible="true" weight="0.22423288" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2224554" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974093" visible="true" weight="0.15741728" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" weight="0.8111723" />
@@ -756,7 +759,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/GAN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1172">
+        <state relative-caret-position="4777">
           <caret line="286" selection-start-line="286" selection-end-line="286" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -766,8 +769,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/complete/gan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="193">
+          <caret line="476" column="22" lean-forward="true" selection-start-line="476" selection-start-column="22" selection-end-line="476" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
